@@ -13,9 +13,10 @@ CSS for styling (including glowing effects)
 JavaScript for functionality
 
 ## 🚀 How to Use
-Clone the repository:
-git clone https://github.com/your-username/glowing-calculator.git
-Open index.html in your browser.
+```Clone the repository:
+git clone https://github.com/victorterekhov/glowing-calculator.git
+```
+Open `index.html` in your browser.
 
 ## 🎨 Preview
 (Screenshot or GIF showcasing the glowing calculator)
